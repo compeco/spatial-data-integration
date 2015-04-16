@@ -19,3 +19,11 @@ Materials for working group on integrating heterogeneous data across scales
    * forecasting
    * back-propagation of subsequent modeling reults to re-evaluate data
    * identify experiments / observations with maximal returns
+
+## Thu Afternoon Discussion - Minimal Version of the Problem
+
+ - 1D "space": all measures are located on a line + no time
+ - observations with x + measurement source, and particular z measurements
+ - measurement sources have distribution shapes / lineal area descriptions (possibly as functions of x / z?)
+ - consumer supplies grid + desired sample size + whole grid model prior
+ - process returns meshes of particular z values
